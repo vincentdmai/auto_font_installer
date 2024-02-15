@@ -5,6 +5,12 @@
 - Python >= 3.8
 - Anaconda 4.X.X (Virtual Environments)
 
+```
+ conda create --name <ENV_NAME>
+ conda activate <ENV_NAME>
+ conda install -c conda-forge fonttools
+```
+
 ## Automated Font Installer
 
 ```
